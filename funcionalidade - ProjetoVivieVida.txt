@@ -1,0 +1,16 @@
+   1 - Tela de introdução, com um breve texto sobre o projeto,
+o nome do projeto na toolbar e um menu lateral.
+   1.1 - No menu lateral ira ter as opções,
+redes sociais ( facebook ) e (instagram)
+,locais de ajuda e doação (mapa) , logout, por dentro do projeto,
+como fazer parte do projeto.
+   2 - por dentro do projeto;
+   2.1 - incluir eventos, videos sobre e fotos.
+   3 - visitenos no facebook;
+   4 - visitenos no instagram;
+   5 - tela de carregamentos para as redes sociais;
+   5.1 - Curiosidades sobre o projeto;
+   6 - Locais de ajuda e doação (localização no mapa);
+   7 - como fazer parte do projeto.
+   7.1 - passo a passo para entrar em contato e fazer parte.
+   8 - splash scren;
